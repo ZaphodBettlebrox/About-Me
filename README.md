@@ -6,7 +6,7 @@ About Me
 
 Simple website that displays a about me page with an introduction, where I’m from, hobbies, dream job, where I live, and why I want to be a web developer.
 
-[Live link]( https://zaphodbettlebrox.github.io/prework-about-me/)
+[Live link](https://zaphodbettlebrox.github.io/prework-about-me/)
 
 ### Prerequisites
 
